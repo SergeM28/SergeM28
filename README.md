@@ -16,7 +16,11 @@
 Hi there, I'm Serge 👋
 </h2>
 <div>
-<p>I'm a success-driven, determined Frontend developer/HTML-coder. I have experience using HTML, CSS & Javascript to build web pages. In process of work I make effort to find the best way to execute it, and if I can't so I create my own.</p>
+<p>Welcome to my CV, HR or Team Lead!
+
+I am now looking for a new challenge in the world of Frontend development. At the moment I work as a layout designer, but I would like to try myself in the front position.
+I would be happy to tell you about myself and my skills at the Zoom meeting.
+Well, briefly about myself, I can say that I am a purposeful young man. I try to constantly develop and love my work.</p>
 </div>
 
 ### :man_technologist: About Me :
